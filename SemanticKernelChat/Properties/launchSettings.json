@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SemanticKernelChat (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "SemanticKernelChat (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
